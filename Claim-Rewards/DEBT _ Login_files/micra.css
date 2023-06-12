@@ -1,0 +1,20 @@
+/*****************************
+ All rights reserved.
+ AllFont.ru (c) 2011-2015
+ *****************************/
+@font-face {
+  font-family: 'Micra';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Micra'), local('Micra-Normal'), url(./micra.woff) format('woff'),
+    url(./micra.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Micra';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Micra Bold'), local('Micra-Bold'),
+    url(./micra-bold.woff) format('woff'),
+    url(./micra-bold.ttf) format('truetype');
+}
